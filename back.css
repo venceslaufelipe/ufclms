@@ -1,0 +1,50 @@
+body{
+    background-image: url(1.jpg);
+    background-size: cover;
+}
+
+#cabeca{
+    background-color: white;
+    width: 1300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 143px;
+    position: absolute;
+}
+
+#tudo{
+    width: 1300px;
+    height: 250px;
+    left: 50%;
+    position: absolute;
+    margin-left: -650px;
+    margin-top: 320px;
+}
+
+#q1{
+    float: left;
+    width: 250px;
+    height: 250px;
+    
+}
+
+#q2{
+    float: left;
+    margin-left: 100px;
+    width: 250px;
+    height: 250px;
+}
+
+#q3{
+    float: left;
+    margin-left: 100px;
+    width: 250px;
+    height: 250px;
+}
+
+#q4{
+    margin-left: 100px;
+    float: left;
+    width: 250px;
+    height: 250px;
+}

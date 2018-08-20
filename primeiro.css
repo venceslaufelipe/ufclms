@@ -1,0 +1,36 @@
+#pri{
+	background-color: greenyellow;
+	height: 250px;
+	width: 500px;
+	margin-top: 50px;	
+	margin-left: 300px;
+	font-family: Verdana;
+	float: left;
+	margin-right: 10px;
+}
+
+
+#seg{
+	background-color: #EE82EE;
+	height: 250px;
+	width: 500px;
+	font-family: Verdana;
+	margin-top: 50px;	
+	float: left;
+}
+
+#frame{
+	position: absolute;
+	margin-top: 410px;
+	margin-left: 640px;
+}
+
+#tabela{
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 670px;
+}
+
+body{
+	background-color: rgb(210,180,140);
+}
